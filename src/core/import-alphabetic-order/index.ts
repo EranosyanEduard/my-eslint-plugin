@@ -1,0 +1,3 @@
+import RULE_MODULE from './rule'
+
+export { RULE_MODULE as IMPORT_ALPHABETIC_ORDER_RULE_MODULE }
